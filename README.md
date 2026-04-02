@@ -31,11 +31,3 @@ Me chamo Thiago Viana Ferreira, tenho 22 anos e sou natural do Suzano-SP. Estou 
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevFerreira699/DevFerreira699/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevFerreira699/DevFerreira699/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevFerreira699/DevFerreira699/output/pacman-contribution-graph.svg">
-</picture>
-
-###
