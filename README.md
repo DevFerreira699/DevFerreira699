@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ferreira
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Aprendiz`**
 
 Me chamo Thiago Viana Ferreira, tenho 22 anos e sou natural do Suzano-SP. Estou cursando ADS pela UniPiaget
 
