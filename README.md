@@ -2,7 +2,20 @@
 
 **`Desenvolvedor Aprendiz`**
 
-Me chamo Thiago Viana Ferreira, tenho 22 anos e sou natural do Suzano-SP. Estou cursando ADS pela UniPiaget
+Olá! Me chamo Thiago Viana Ferreira, tenho 22 anos e sou natural de Suzano - SP.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UniPiaget.
+
+💡 Tenho focado meus estudos em desenvolvimento web, buscando escrever código limpo, organizado e semântico.
+📚 Estou sempre evoluindo em lógica de programação, versionamento com Git e boas práticas de desenvolvimento.
+
+🚀 Interesses:
+
+Desenvolvimento Web
+Estruturação semântica (HTML)
+Boas práticas de código
+Resolução de problemas
+
+📌 Em constante evolução, construindo projetos e adquirindo experiência prática na área de tecnologia.
 
 <h1 align="center">Salve👋Segue as liguagens em que trabalho</h1>
 
