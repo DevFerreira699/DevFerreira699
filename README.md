@@ -4,8 +4,8 @@
 
 Me chamo Thiago Viana Ferreira, tenho 22 anos e sou natural do Suzano-SP. Estou cursando ADS pela UniPiaget
 
-<h1 align="center">Salve👋</h1>
-<p> Estas são as liguagens em que trabalho</p>
+<h1 align="center">Salve👋Segue as liguagens em que trabalho</h1>
+
 
 ###
 
