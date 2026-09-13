@@ -5,17 +5,21 @@
 Olá! Me chamo Thiago Viana Ferreira, tenho 22 anos e sou natural de Suzano - SP.
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UniPiaget.
 
-💡 Tenho focado meus estudos em desenvolvimento web, buscando escrever código limpo, organizado e semântico.
-📚 Estou sempre evoluindo em lógica de programação, versionamento com Git e boas práticas de desenvolvimento.
+💡 Tenho interesse em ampliar meus conhecimentos em programação, desenvolvendo minhas habilidades em Java, Python e JavaScript, com foco em lógica, resolução de problemas e desenvolvimento de aplicações.
+
+📚 Busco constantemente evoluir meus conhecimentos em programação, boas práticas de desenvolvimento, Git e diferentes tecnologias, sempre colocando o aprendizado em prática por meio de projetos.
 
 🚀 Interesses:
 
-Desenvolvimento Web
-Estruturação semântica (HTML)
-Boas práticas de código
-Resolução de problemas
+Desenvolvimento de Software
+Java
+Python
+JavaScript
+Cibersegurança
 
-📌 Em constante evolução, construindo projetos e adquirindo experiência prática na área de tecnologia.
+🔐 Tenho também interesse em ingressar futuramente na área de Cibersegurança, buscando compreender cada vez mais sobre segurança de sistemas, redes, vulnerabilidades e proteção de informações.
+
+📌 Em constante evolução, buscando adquirir experiência prática, desenvolver novas habilidades e construir uma carreira sólida na área de tecnologia.
 
 <h1 align="center">Salve👋Segue as liguagens em que trabalho</h1>
 
