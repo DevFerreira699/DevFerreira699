@@ -5,16 +5,12 @@
 Olá! Me chamo Thiago Viana Ferreira, tenho 22 anos e sou natural de Suzano - SP.
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UniPiaget.
 
-💡 Tenho interesse em ampliar meus conhecimentos em programação, desenvolvendo minhas habilidades em Java, Python e JavaScript, com foco em lógica, resolução de problemas e desenvolvimento de aplicações.
+💡 Tenho interesse em ampliar meus conhecimentos em programação, desenvolvendo minhas habilidades em Java, Python, C# e JavaScript/TypeScript, com foco em lógica, resolução de problemas e desenvolvimento de aplicações.
 
 📚 Busco constantemente evoluir meus conhecimentos em programação, boas práticas Git e diferentes tecnologias, sempre colocando o aprendizado em prática por meio de projetos.
 
 🚀 Interesses:
 
-Java
-Python
-JavaScript
-C#
 Cibersegurança
 
 🔐 Tenho também interesse em ingressar futuramente na área de Cibersegurança, buscando compreender cada vez mais sobre segurança de sistemas, redes, vulnerabilidades e proteção de informações.
