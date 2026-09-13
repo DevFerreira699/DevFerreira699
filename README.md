@@ -15,6 +15,7 @@ Desenvolvimento de Software
 Java
 Python
 JavaScript
+C#
 Cibersegurança
 
 🔐 Tenho também interesse em ingressar futuramente na área de Cibersegurança, buscando compreender cada vez mais sobre segurança de sistemas, redes, vulnerabilidades e proteção de informações.
