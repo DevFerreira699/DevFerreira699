@@ -7,11 +7,10 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UniPiaget.
 
 💡 Tenho interesse em ampliar meus conhecimentos em programação, desenvolvendo minhas habilidades em Java, Python e JavaScript, com foco em lógica, resolução de problemas e desenvolvimento de aplicações.
 
-📚 Busco constantemente evoluir meus conhecimentos em programação, boas práticas de desenvolvimento, Git e diferentes tecnologias, sempre colocando o aprendizado em prática por meio de projetos.
+📚 Busco constantemente evoluir meus conhecimentos em programação, boas práticas Git e diferentes tecnologias, sempre colocando o aprendizado em prática por meio de projetos.
 
 🚀 Interesses:
 
-Desenvolvimento de Software
 Java
 Python
 JavaScript
